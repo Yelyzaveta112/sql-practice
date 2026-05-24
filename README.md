@@ -1,22 +1,24 @@
-## About
-This project demonstrates my SQL skills using practice exercises with a relational database.
+# SQL Practice Project
 
-## Skills demonstrated:
-- SELECT queries
-- Filtering (WHERE, AND, OR, IN, BETWEEN)
-- String functions (CONCAT, LIKE)
-- Sorting and limiting results (ORDER BY, LIMIT)
-- Data manipulation (INSERT, UPDATE, DELETE)
-- Joins (INNER JOIN, LEFT JOIN)
+SQL exercises based on a relational database, completed in DBeaver.
 
-## Tools:
-- MySQL
-- DBeaver
+## Files
 
-## Database structure:
-Tables used:
+- select.sql
+- filtering.sql
+- functions.sql
+- join.sql
+- crud.sql
+- database_design.sql
+
+## Tables
+
 - customers
 - products
 - orders
 - order_items
 - support_tickets
+
+## Goal
+
+Practice SQL from basic to intermediate level.
