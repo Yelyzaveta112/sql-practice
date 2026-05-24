@@ -1,11 +1,22 @@
-This project contains SQL exercises covering:
+## About
+This project demonstrates my SQL skills using practice exercises with a relational database.
 
-- SELECT basics
+## Skills demonstrated:
+- SELECT queries
 - Filtering (WHERE, AND, OR, IN, BETWEEN)
-- String functions (LIKE, CONCAT)
-- Sorting (ORDER BY, LIMIT)
-- Aggregation basics (DISTINCT)
+- String functions (CONCAT, LIKE)
+- Sorting and limiting results (ORDER BY, LIMIT)
 - Data manipulation (INSERT, UPDATE, DELETE)
-- JOIN operations (INNER JOIN, LEFT JOIN)
+- Joins (INNER JOIN, LEFT JOIN)
 
-The database was provided by the teacher.
+## Tools:
+- MySQL
+- DBeaver
+
+## Database structure:
+Tables used:
+- customers
+- products
+- orders
+- order_items
+- support_tickets
