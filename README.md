@@ -1,11 +1,11 @@
-# sql-practice
-SQL practice project with queries, filtering, joins and CRUD operations using a pre-built database
-This project contains SQL exercises using a pre-built database.
+This project contains SQL exercises covering:
 
-Topics:
-- SELECT queries
-- Filtering (WHERE, LIKE, IN, BETWEEN)
-- JOIN operations
-- CRUD operations (INSERT, UPDATE, DELETE)
+- SELECT basics
+- Filtering (WHERE, AND, OR, IN, BETWEEN)
+- String functions (LIKE, CONCAT)
+- Sorting (ORDER BY, LIMIT)
+- Aggregation basics (DISTINCT)
+- Data manipulation (INSERT, UPDATE, DELETE)
+- JOIN operations (INNER JOIN, LEFT JOIN)
 
 The database was provided by the teacher.
